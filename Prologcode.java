@@ -6,9 +6,8 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * CS 310
  * Survey 3 
- * @author ifennaekwenem Ron Reaser
+ * @author ifennaekwenem 
  *
  */
 
